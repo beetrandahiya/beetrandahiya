@@ -20,6 +20,7 @@
 <h3>## Languages and Tools</h3>
 <div>
 <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" width="35px" hspace="6">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" width="35px" hspace="6">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/1024px-Created_with_Matplotlib-logo.svg.png" width="35px" hspace="6">
 <img src="https://notmatthancock.github.io/research/talks/gss-python/img/numpylogo.svg"  width="35px" hspace="6">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" width="35px" hspace="6">
@@ -36,6 +37,7 @@
 <img src="https://www.flaticon.com/svg/static/icons/svg/25/25231.svg" width="35px" hspace="6">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1028px-Visual_Studio_Code_1.18_icon.svg.png" width="35px" hspace="6">
 <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/sublimetext_94866.png" width="35px" hspace="6">
+<img src="https://icons.iconarchive.com/icons/blackvariant/button-ui-system-apps/1024/Terminal-icon.png" width="35px" hspace="6">
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Atom_1.0_icon.png" width="35px" hspace="6">
 
