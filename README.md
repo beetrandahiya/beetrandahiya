@@ -28,13 +28,15 @@
 <img src="https://cdn.iconscout.com/icon/free/png-256/html-59-225995.png" width="35px" hspace="6">
 <img src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png" width="35px" hspace="6">
 <img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" width="35px" hspace="6">
+<img src="https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png" width="35px" hspace="6">
 <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" width="35px" hspace="6">
 <img src="https://obscureproblemsandgotchas.com/wp-content/uploads/2018/06/bootstrap-stack-e1530246058846.png" width="35px" hspace="6">
 <img src="https://cdn.iconscout.com/icon/free/png-256/jquery-7-1175152.png" width="35px" hspace="6">
+<img src="https://camo.githubusercontent.com/a5e7bd9deef127c7ef3f7a1bf2780002c021eab7/68747470733a2f2f692e626c6f67732e65732f3534356366382f6573362d6c6f676f2f6f726967696e616c2e706e67" width="35px" hspace="6">
 <img src="https://www.flaticon.com/svg/static/icons/svg/25/25231.svg" width="35px" hspace="6">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1028px-Visual_Studio_Code_1.18_icon.svg.png" width="35px" hspace="6">
 <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/sublimetext_94866.png" width="35px" hspace="6">
-<img src="https://camo.githubusercontent.com/a5e7bd9deef127c7ef3f7a1bf2780002c021eab7/68747470733a2f2f692e626c6f67732e65732f3534356366382f6573362d6c6f676f2f6f726967696e616c2e706e67" width="35px" hspace="6">
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Atom_1.0_icon.png" width="35px" hspace="6">
 
 
