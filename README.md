@@ -9,5 +9,12 @@
 - 💬 Ask me about ...                 Anything!
 - ⚡ Fun fact: ...                    I love Mathematics!
 
-
-<img src="https://cdn.iconscout.com/icon/free/png-256/javascript-23-1174949.png">
+<style>
+  .img_size{
+  width: 20%;}
+  
+</style>
+<h3>## Connect with me:</h3>
+<a href="instagram.com/prakrishtdahiya"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" class="img_size"></a>
+<a href="mailto:beetrandahiya@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Gmail_Icon.svg/1280px-Gmail_Icon.svg.png" class="img_size"></a>
+<a href="https://www.youtube.com/channel/UCufZa0Hiw_KZu1dVn5TvVoQ"><img src="https://seeklogo.net/wp-content/uploads/2020/03/YouTube-icon-SVG-512x512.png" class="img_size"></a>
