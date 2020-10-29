@@ -1,4 +1,4 @@
-### Hi there 👋! I'm Prakrisht a.k.a. Beetran , a visionary web developer and python programmer working on data science.
+### Hi there 👋! I'm Prakrisht a.k.a. Beetran , a visionary web developer and python programmer working on Machine Learning.
 
 
 
