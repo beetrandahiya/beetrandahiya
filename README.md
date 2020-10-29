@@ -24,6 +24,7 @@
 <img src="https://notmatthancock.github.io/research/talks/gss-python/img/numpylogo.svg"  width="35px" hspace="6">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" width="35px" hspace="6">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" width="35px" hspace="6">
+<img src="https://www.selenium.dev/images/selenium_logo_square_green.png" width="35px" hspace="6">
 <img src="https://cdn.iconscout.com/icon/free/png-256/html-59-225995.png" width="35px" hspace="6">
 <img src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png" width="35px" hspace="6">
 <img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" width="35px" hspace="6">
