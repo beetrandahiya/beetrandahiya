@@ -41,6 +41,9 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Atom_1.0_icon.png" width="35px" hspace="6">
 <img src="https://miro.medium.com/max/1000/1*7eTJiUndx4MiCrLuJkQqdA.png" width="85px" hspace="6">
+<img src="https://www.chartjs.org/img/chartjs-logo.svg" width="35px" hspace="6">
+<img src="https://avatars2.githubusercontent.com/u/37190687?s=280&v=4" width="35px" hspace="6">
+<img src="https://i.ibb.co/x51hypr/output-onlinepngtools.png" width="35px" hspace="6">
 
 
   
