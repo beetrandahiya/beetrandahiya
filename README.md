@@ -1,6 +1,6 @@
-<h1 align="center">👨🏻‍💻 Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px">, I'm Prakrisht a.k.a. Beetran 
+<h1 align="center"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px">, I'm Prakrisht a.k.a. Beetran 
 </h1>
-<br><h2 align="center">Student,<br> a visionary web developer and python programmer working on Machine Learning.</h2>
+<h3 align="center">Student</h3> <h3  align="center">A Visionary web developer and python programmer working on Machine Learning.</h3>
 
 
 
