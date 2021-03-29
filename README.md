@@ -1,4 +1,6 @@
-### Hi there 👋! I'm Prakrisht a.k.a. Beetran <br>Student, a visionary web developer and python programmer working on Machine Learning.
+<h1 align="center">👨🏻‍💻 Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px">, I'm Prakrisht a.k.a. Beetran 
+</h1>
+<br><h2 align="center">Student,<br> a visionary web developer and python programmer working on Machine Learning.</h2>
 
 
 
