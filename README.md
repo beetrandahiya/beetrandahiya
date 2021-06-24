@@ -5,9 +5,9 @@
 
 <h3>## Connect with me:</h3>
 <div padding="10px">
-<a href="https://www.instagram.com/prakrishtdahiya/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" width="30px" hspace="10" ></a>    
-<a href="mailto:beetrandahiya@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Gmail_Icon.svg/1280px-Gmail_Icon.svg.png" width="30px" hspace="10"></a>
-<a href="https://www.youtube.com/channel/UCufZa0Hiw_KZu1dVn5TvVoQ"><img src="https://seeklogo.net/wp-content/uploads/2020/03/YouTube-icon-SVG-512x512.png" width="30px" hspace="10"></a>
+<a href="https://www.instagram.com/prakrishtdahiya/"><img src='assets/icons8-instagram-48.png' width="48px" hspace="10" ></a>    
+<a href="mailto:beetrandahiya@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Gmail_Icon.svg/1280px-Gmail_Icon.svg.png" width="48px" hspace="10"></a>
+<a href="https://www.youtube.com/channel/UCufZa0Hiw_KZu1dVn5TvVoQ"><img src="https://seeklogo.net/wp-content/uploads/2020/03/YouTube-icon-SVG-512x512.png" width="48px" hspace="10"></a>
 </div>
 
 <h3>## Languages and Tools</h3>
