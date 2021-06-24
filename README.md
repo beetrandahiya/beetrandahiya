@@ -3,7 +3,7 @@
 <h3  align="center">A Visionary web developer and python programmer working on Machine Learning.</h3>
 
 
-<h3>## Connect with me:</h3>
+## Connect with me:
 <div padding="8px">
 <a href="https://www.instagram.com/prakrishtdahiya/"><img src='assets/icons8-instagram-48.png' width="48px" hspace="8" ></a>    
 <a href="mailto:beetrandahiya@gmail.com"><img src="assets/icons8-gmail-48.png" width="48px" hspace="8"></a>
@@ -13,7 +13,7 @@
 <a href="https://www.deviantart.com/beetrandahiya"><img src='assets/icons8-deviantart-48.png' width="48px" hspace="8" ></a> 
 </div>
 
-<h3>## Languages and Tools</h3>
+## Languages 
 <div>
 <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" width="35px" hspace="6">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" width="35px" hspace="6">
