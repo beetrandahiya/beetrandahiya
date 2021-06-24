@@ -1,15 +1,6 @@
-<h1 align="center"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px">, I'm Prakrisht a.k.a. Beetran 
-</h1>
-<h3 align="center">Student</h3> <h3  align="center">A Visionary web developer and python programmer working on Machine Learning.</h3>
+[![](https://raw.githubusercontent.com/beetrandahiya/beetrandahiya/master/image.gif)](https://www.adamalston.com/)<!-- If you want the template for my gif, email me! -->
 
-
-
-- 🔭 I’m currently working on ...     My code teaching website in collab with a friend.
-- 🌱 I’m currently learning ...       React.js
-- 👯 I’m looking to collaborate on ...Python, Javascript
-- 🤔 I’m looking for help with ...    Node.js
-- 💬 Ask me about ...                 Anything!
-- ⚡ Fun fact: ...                    I love Mathematics!
+<h3  align="center">A Visionary web developer and python programmer working on Machine Learning.</h3>
 
 
 <h3>## Connect with me:</h3>
