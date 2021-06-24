@@ -6,7 +6,7 @@
 <h3>## Connect with me:</h3>
 <div padding="10px">
 <a href="https://www.instagram.com/prakrishtdahiya/"><img src='assets/icons8-instagram-48.png' width="48px" hspace="10" ></a>    
-<a href="mailto:beetrandahiya@gmail.com"><img src="assests/icons8-gmail-48.png" width="48px" hspace="10"></a>
+<a href="mailto:beetrandahiya@gmail.com"><img src="assets/icons8-gmail-48.png" width="48px" hspace="10"></a>
 <a href="https://dribbble.com/beetran/"><img src='assets/Dribbble_icon.png' width="48px" hspace="10" ></a> 
 <a href="https://www.behance.net/prakrishtdahiya"><img src='assets/icons8-behance.png' width="48px" hspace="10" ></a> 
 <a href="https://codepen.io/beetran"><img src='assets/Codepen.png' width="48px" hspace="10" ></a> 
