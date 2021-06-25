@@ -55,3 +55,9 @@
 <img src='assets/chartjs.png' width="48px" hspace="8" style='padding:2px;'>
 <img src='assets/matterjs.png' height="42px" hspace="8" >
 </div>
+<br>
+<br>
+<div align='center'>
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
+</div>
