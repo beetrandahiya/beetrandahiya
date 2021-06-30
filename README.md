@@ -1,4 +1,4 @@
-[![](https://raw.githubusercontent.com/beetrandahiya/beetrandahiya/master/image.gif)]
+![](https://raw.githubusercontent.com/beetrandahiya/beetrandahiya/master/image.gif)
 <h3  align="center">PhiloMath<br>Visionary Web Developer<br> Python Programmer studying Machine Learning <img src='assets/ai.png' width="32px"><br> and A bit of an Artist as well</h3>
 <div align='center'>
 
