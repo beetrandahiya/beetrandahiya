@@ -29,6 +29,7 @@
 ## Frameworks :
 <div>
 <img src='assets/sass.png' width="54px" hspace="8" >
+<img src='assets/react.png' width="54px" hspace="8" >
 <img src='assets/bootstrap.png' width="54px" hspace="8" style='padding-bottom:8px;'>
 <img src='assets/pug.png' width="60px" hspace="8" >
 <img src='assets/babel.png' width="80px" hspace="8"  style='padding-bottom:10px;'>
