@@ -24,6 +24,8 @@
 <img src='assets/html.png' width="48px" hspace="8" >
 <img src='assets/css.png' width="48px" hspace="8" >
 <img src='assets/processing.png' width="48px" hspace="8" >
+<img src='assets/icons8-typescript.png' width="48px" hspace="8" >
+
 </div>
 
 ## Frameworks :
